@@ -12,6 +12,7 @@ An object is a specific instance of a class that serves as a templates for OBJEC
 As told earlier, PHP determines the data types by analyzing the values of the data supplied.
 */
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

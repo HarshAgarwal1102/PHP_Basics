@@ -142,4 +142,5 @@ Operator         Name         Example         Result
     $myVar = (true and false);
     echo "<br>";
     echo var_dump($myVar);
+
 ?>

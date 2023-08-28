@@ -10,6 +10,16 @@
     This is my first PHP website
       <?php
         echo "Hello world and this is printed using PHP";
+
+        //Single-line comment
+        /*
+            This
+            is 
+            a
+            multi
+            line
+            comment
+        */
       ?>
     </div>
 </body>

@@ -35,6 +35,7 @@
         echo $a;
     }
 
+    // For Each Loop
     foreach ($languages as $value) {
         echo "<br>The value from foreach loop is ";
         echo $value;
